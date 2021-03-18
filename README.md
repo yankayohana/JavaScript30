@@ -4,3 +4,6 @@
 
 <p align="center">Repositório para armazenar os códigos feitos durante o desafio #JavaScript30. 
 curso gratuito: https://JavaScript30.com</p>
+
+<ul align="left">
+  <li><a textDecoration="none" href="https://www.awesomescreenshot.com/video/3109172?key=e05280f01d378404be540f3a133ffba8">Dia 01: JS Drum (video)</a></li> 
